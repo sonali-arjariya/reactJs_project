@@ -1,0 +1,29 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "this is a react code",
+  "main": "index.js",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonali-arjariya/reactJs_project.git"
+  },
+  "author": "soanli-arjariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonali-arjariya/reactJs_project/issues"
+  },
+  "homepage": "https://github.com/sonali-arjariya/reactJs_project#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "dom": "^0.0.3",
+    "react": "^18.2.0"
+  }
+}
